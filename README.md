@@ -2,12 +2,6 @@
 
 # FIAP - Faculdade de Informática e Administração Paulista
 
-<p align="center">
-<a href= "https://www.fiap.com.br/"><img src="https://assets.gupy.io/employer-profile/images/98df7c31-c427-46c5-8854-320c9462d7c5/1614271816912.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width="40%" height="40%"></a>
-</p>
-
-<br>
-
 # Classificação Inteligente de Grãos de Trigo
 
 ## 👨‍🎓 Integrantes: 
