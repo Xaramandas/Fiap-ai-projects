@@ -10,8 +10,6 @@
 
 # Classificação Inteligente de Grãos de Trigo
 
-## Nome do Grupo: [INSERIR NOME DO GRUPO SE HOUVER]
-
 ## 👨‍🎓 Integrantes: 
 * Everton Marinho Souza (RM568137)
 * Julia Gutierres Fernandes Souza (RM568296)
@@ -21,9 +19,9 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-* <a href="https://www.linkedin.com/in/sabrina-otoni-da-silva-206205/">Sabrina Otoni</a>
+* Sabrina Otoni
 ### Coordenador(a)
-* <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
+* André Godoi
 
 ## 📜 Descrição
 
