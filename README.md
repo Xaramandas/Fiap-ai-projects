@@ -10,19 +10,20 @@
 
 # Classificação Inteligente de Grãos de Trigo
 
-## Nome do Grupo: [PREENCHER AQUI]
+## Nome do Grupo: [INSERIR NOME DO GRUPO SE HOUVER]
 
 ## 👨‍🎓 Integrantes: 
-* [Seu Nome](https://www.linkedin.com/in/seu-linkedin)
-* [Nome do Colega 1](https://www.linkedin.com/in/linkedin-colega)
-* [Nome do Colega 2](https://www.linkedin.com/in/linkedin-colega)
-* [Nome do Colega 3](https://www.linkedin.com/in/linkedin-colega)
+* Everton Marinho Souza (RM568137)
+* Julia Gutierres Fernandes Souza (RM568296)
+* Matheus Ribeiro Martelletti (RM566767)
+* Raimunda Nayara Mendes dos Santos (RM567718)
+* Felipe de Souza Lourenco (RM567521)
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-* [Nome do Tutor](https://www.linkedin.com/company/inova-fusca)
+* <a href="https://www.linkedin.com/in/sabrina-otoni-da-silva-206205/">Sabrina Otoni</a>
 ### Coordenador(a)
-* [Nome do Coordenador](https://www.linkedin.com/company/inova-fusca)
+* <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
 
 ## 📜 Descrição
 
