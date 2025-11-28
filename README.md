@@ -1,5 +1,3 @@
-# Fiap-ai-projects
-
 # FIAP - Faculdade de Informática e Administração Paulista
 
 # Classificação Inteligente de Grãos de Trigo
